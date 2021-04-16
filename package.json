@@ -1,0 +1,29 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "Mean Stack with Angular",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saumym/Mean-Stack-With-Angular-2-Tutorial.git"
+  },
+  "keywords": [
+    "Mean",
+    "Stack",
+    "Angular",
+    "Application"
+  ],
+  "author": "Saumya Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saumym/Mean-Stack-With-Angular-2-Tutorial/issues"
+  },
+  "homepage": "https://github.com/saumym/Mean-Stack-With-Angular-2-Tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.4"
+  }
+}
